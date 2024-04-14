@@ -6,8 +6,8 @@ class SelectionSortTest {
 
 	@Test
 	public void test() {
-		//testPositive();
-		//testNegative();
+		testPositive();
+		testNegative();
 		//testMixed();
 		//testDuplicates();
 	}
