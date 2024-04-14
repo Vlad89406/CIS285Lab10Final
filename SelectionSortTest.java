@@ -6,10 +6,17 @@ class SelectionSortTest {
 
 	@Test
 	public void test() {
+<<<<<<< HEAD
 		testPositive();
 		testNegative();
 		//testMixed();
 		//testDuplicates();
+=======
+		//testPositive();
+		//testNegative();
+		testMixed();
+		testDuplicates();
+>>>>>>> mixdup
 	}
 	
 	public void testSelectionSort() {
